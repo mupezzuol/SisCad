@@ -14,7 +14,6 @@
 <h3><b>Serviços do Software:</b></h3>
 
 <ul TYPE="circle">
-<li>Cadastros de Clientes, fornecedores, produtos, serviços, colaboradores e usuários;</li>
-<li>Controles de estoque, frente de caixa, agendamento, fluxo de caixa e usuários;</li>
-<li>Relatórios de produtos, clientes, serviços, agendamentos, fluxos de caixa e etc.</li>
+<li>Cadastros em gerais;</li>
+<li>Controles de usuário e acesso.</li>
 </ul>
